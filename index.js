@@ -1,7 +1,7 @@
-import inquirer from 'inquirer';
-import SVG from './lib/svg.js';
-import {Circle, Triangle, Square} from './lib/shapes.js';
-import { writeFile } from 'fs/promises';
+const inquirer = require('inquirer');
+const SVG = require('./lib/svg.js');
+const { Circle, Triangle, Square } = require('./lib/shapes.js');
+const { writeFile } = require('fs').promises;
 
 const questions = [
   {
