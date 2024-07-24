@@ -1,0 +1,17 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^10.0.4",
+    "jest": "^29.7.0"
+  },
+  "type": "module"
+}
