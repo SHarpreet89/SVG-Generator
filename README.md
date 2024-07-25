@@ -6,7 +6,7 @@ This app runs on the Command Line Interface and uses Inquirer, letting users ans
 
 ## APP Walkthrough Video
 
-The App walkthrough video can be accessed via this link - https://drive.google.com/file/d/1gp-Lyzz6d0yGq-rvmohOmO6t8yLGLMHQ/view
+The App walkthrough video can be accessed via this link - https://drive.google.com/file/d/1s0GgoJMHRQEQ9przo2jn0O3yOOvupNTE/view
 
 ## Installation Instructions
 
